@@ -62,7 +62,7 @@ ptyprocess==0.6.0
 pyasn1==0.4.8
 pycodestyle==2.6.0
 pycparser==2.20
-Pygments==2.7.2
+Pygments==2.7.4
 pylint==2.6.0
 pylint-django==2.3.0
 pylint-flask==0.6
