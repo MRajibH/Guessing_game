@@ -95,7 +95,7 @@ toml==0.10.2
 tqdm==4.51.0
 twython==3.8.2
 typed-ast==1.4.1
-urllib3==1.25.11
+urllib3==1.26.5
 virtualenv==20.1.0
 WeasyPrint==52
 webencodings==0.5.1
