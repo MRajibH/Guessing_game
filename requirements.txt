@@ -12,7 +12,7 @@ braceexpand==0.1.6
 cachelib==0.1.1
 cairocffi==1.2.0
 CairoSVG==2.5.1
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.3
 chardet==3.0.4
 check50==3.2.0
